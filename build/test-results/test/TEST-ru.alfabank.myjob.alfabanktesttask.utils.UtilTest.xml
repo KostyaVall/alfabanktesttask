@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.alfabank.myjob.alfabanktesttask.utils.UtilTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-23T23:12:55" hostname="DESKTOP-0L5F16E" time="0.003">
+  <properties/>
+  <testcase name="compareExchangeRate()" classname="ru.alfabank.myjob.alfabanktesttask.utils.UtilTest" time="0.001"/>
+  <testcase name="getCodesUtils()" classname="ru.alfabank.myjob.alfabanktesttask.utils.UtilTest" time="0.0"/>
+  <testcase name="getGifURI()" classname="ru.alfabank.myjob.alfabanktesttask.utils.UtilTest" time="0.001"/>
+  <testcase name="getExchangeRateURI()" classname="ru.alfabank.myjob.alfabanktesttask.utils.UtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
